@@ -1,0 +1,12 @@
+{
+    "verbose": true,
+    "ignore": [
+        "**/test/**",
+        "**/docs/**",
+        ".git",
+        "node_modules/**/node_modules"
+    ],
+    "execMap": {
+        "ts": "npx ts-node"
+    }
+}
